@@ -1,0 +1,139 @@
+/* .nav-item{
+    padding: 3%;
+} */
+
+body{
+    color: white;
+}
+h1{
+    font-size: 4rem;
+}
+h1 span{
+    color: aquamarine;
+}
+
+h1,h2{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+h3 {
+    font-size: 2.5rem;
+}
+p{
+    margin: 0;
+    font-size: 1.5rem;
+}
+.btn {
+    margin: 15px 0;
+}
+.col-lg-6{
+    padding: 0;
+}
+/* Navigation Bar */
+.navigation-bar{
+    padding: 0 8%;
+}
+.horizontal-line{
+    width: 7rem;
+    border-top: dotted;
+    border-width: 17px;
+    background-color: transparent;
+    color: white;
+    
+}  
+
+.brand-name i {
+    color: aquamarine;
+}
+
+
+.container-fluid{
+    padding-right: 8rem;
+}
+
+
+.nav-item{
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+}
+
+.brand-name{
+    font-size: 2rem;
+}
+
+
+/* Top Container */
+#top-container {
+    background-color: #232931;
+    padding: 8%;
+}
+
+.avatar-img{
+    width: 70%;
+    height: auto;
+    border-radius: 100%;
+    padding-left: 13%;
+    margin: 10px 15%;
+}
+.social-links{
+    padding: 15% 0 0;
+}
+.social-icon{
+    color: #EEEEEE;
+    font-size: 2rem;
+    padding: 0px 5px 0px;
+}
+
+.social-icon:hover{
+    color: aquamarine;
+}
+
+.about-me{
+    padding:  5% 0 0;
+}
+
+.about-me-container{
+    padding: 0
+}
+
+.btn-say-hello{
+    border-color: aquamarine;
+}
+
+
+.hash-tags{
+    padding: 3% 0;
+    margin: 0;
+    font-family: 'Ubuntu Mono', monospace;
+}
+/* Skills */
+
+#skills{
+    background-color: #EEEEEE;
+    color: #393E46;
+    padding: 8%;
+}
+
+
+/* Footer */
+
+footer{
+    background-color: #393E46;
+    text-align: center;
+    padding: 40px 0 ;
+    font-family: sans-serif;
+}
+
+footer .social-icon{
+    font-size: 1rem;
+}
+
+footer .social-links{
+    padding: 0;
+}
+
+.copyright-text{
+    margin: 3px ;
+    font-size: 1rem;
+}
